@@ -65,11 +65,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 ## task managment system
-## $logins = ['adminlogin' =>  ['username'=>'admin@example.com',password=>'password'], 'managerlogin'=>['username'=>'manager@example.com','password'=>'password']];
+ $logins = ['adminlogin' =>  ['username'=>'admin@example.com',password=>'password'], 'managerlogin'=>['username'=>'manager@example.com','password'=>'password']];
 
-![image](https://github.com/user-attachments/assets/1e5dafb1-93ec-4879-906b-37f5b385123b)
-![image](https://github.com/user-attachments/assets/acf7a4b0-f146-4d23-98c1-1fc70d17be4a)
-![Screenshot (1![image](https://github.com/user-attachments/assets/004987ed-572f-4955-9d2f-dd16fda7bea6)
-32)](https://github.com/user-attachments/assets/9f362c85-2635-4b69-8dad-d23ff911be99)
 
-![Screenshot (130)](https://github.com/user-attachments/assets/01df1b96-572e-408b-8146-b6eebc240a15)
+![image](https://github.com/user-attachments/assets/3f02b292-0952-48b4-96b3-7551c7e3f3e7)
+
+![image](https://github.com/user-attachments/assets/78346386-5326-4234-b07f-37584a30e8ac)
+
+![image](https://github.com/user-attachments/assets/c36e019a-e651-4331-bebb-dd985dc5ddbc)
